@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MongoBug/packages
+/MongoBug/MongoBug/obj/
+/MongoBug/MongoBug/bin/
